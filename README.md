@@ -1,11 +1,13 @@
 # ECE444-F2023-Lab5
 
-Completed thereplay.
+Completed the replay.
 
-Included a test case on [https://github.com/ECE444-2023Fall/Blue-Surf/blob/FE-landing-page/backend/tests/test_app.py.](https://github.com/ECE444-2023Fall/Blue-Surf/pull/46)
+Included a test case on:
 
-https://github.com/ECE444-2023Fall/Blue-Surf/pull/46
+[https://github.com/ECE444-2023Fall/Blue-Surf/pull/46
+](https://github.com/ECE444-2023Fall/Blue-Surf/blob/f39e89e418bc0f0155c2f6e3fe8ede969dc4143d/backend/tests/test_app.py#L22-L45)
 
+[https://github.com/ECE444-2023Fall/Blue-Surf/blob/FE-landing-page/backend/tests/test_app.py.](https://github.com/ECE444-2023Fall/Blue-Surf/pull/46)
 
 What are the pros and cons of TDD?
 
